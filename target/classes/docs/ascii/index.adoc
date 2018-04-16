@@ -1,0 +1,3 @@
+include::/Users/alan/WorkSpace/terminus/java/jiddn/jiddN-swagger/docs/ascii/overview.adoc[]
+include::/Users/alan/WorkSpace/terminus/java/jiddn/jiddN-swagger/docs/ascii/definitions.adoc[]
+include::/Users/alan/WorkSpace/terminus/java/jiddn/jiddN-swagger/docs/ascii/paths.adoc[]
